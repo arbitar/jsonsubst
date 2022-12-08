@@ -12,4 +12,4 @@ Or, in a pipeline of some kind...
 `cat input.txt | ./jsonsubst data.json | tee output.txt`
 
 ## Notes
-No dependencies, so it should run anywhere. Which means it'll run inside your quick-and-dirty Docker stuff without complaint.
+No runtime dependencies, so it should run anywhere. Which means it'll run inside your quick-and-dirty Docker stuff without complaint.
